@@ -1,0 +1,15 @@
+Чистая вода — Crystal 4, обновление оформления 2026-10-23
+89 серверных проверок пройдено: 26 core + 33 HTTP + 30 admin.
+56 проверок адаптации публичных страниц пройдено в браузере.
+PHP-серверная логика сохранена. На рабочий хостинг не установлено.
+START_REDESIGN_RU.md — инструкция обновления.
+
+Legal update: 2026-10-23.1. Contract processing basis for checkout; separate account consent; clarified returns and delivery.
+
+Operations update: 2026-10-23.2. Retention, account security/SMS adapter, delivery validation, durable notifications, verified full backup. Read START_OPERATIONS_RU.md.
+
+2026-10-23 growth1: mobile checkout, current-stock repeats, structured addresses, opt-in account/calendar reminders, consent-gated funnel, canonical/index checks. See START_GROWTH_RU.md.
+
+2026-10-25 town-prices: independent destination prices and pickup, legacy price compatibility. Validation: 21 pricing + 13 HTTP pricing + 112 existing PHP checks, frontend regression checks. Admin fields verified in browser. Production hosting not updated. See START_PRICES_RU.md.
+
+2026-10-25 admin-business: configurable zones, fees, calendar/capacity, staff roles and login, courier assignment/view, client order history. 175 PHP and 68 focused HTTP checks passed. UI checked at 320/390px. Working hosting not changed. See START_ADMIN_RU.md.

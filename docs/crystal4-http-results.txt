@@ -1,0 +1,68 @@
+http_test.py
+PASS catalog and csrf bootstrap
+PASS admin read protected
+PASS backup protected
+PASS CSRF missing blocked
+PASS guest order persisted
+PASS duplicate request safe
+PASS uncertain submission recovery
+PASS other session cannot query key
+PASS other session cannot reuse key
+PASS registration recovery key
+PASS guest order not linked by phone
+PASS password hashes not exposed
+PASS address saved
+PASS signed in order
+PASS account scoped history
+PASS wrong password blocked
+PASS password login
+PASS recurring request stored
+PASS cannot subscribe guest order
+PASS recovery key rotates password
+PASS old session invalidated
+PASS login after recovery
+PASS admin sign in
+PASS owner dashboard
+PASS owner confirms and records payment
+PASS stale owner form rejected
+PASS owner completes delivery
+PASS CSV export
+PASS full backup export
+PASS product edit with current version
+PASS stale product edit rejected
+PASS bridge key required
+PASS public slot availability
+33 HTTP checks passed
+
+admin_v31_test.py
+PASS admin_upload requires owner
+PASS admin_save_product requires owner
+PASS admin_settings requires owner
+PASS admin_password requires owner
+PASS owner login
+PASS SVG upload rejected
+PASS malformed image rejected
+PASS oversize image rejected
+PASS real PNG uploaded
+PASS uploaded bytes served as image
+PASS settings CSRF enforced
+PASS settings saved with version
+PASS stale settings rejected
+PASS pause visible publicly
+PASS paused server blocks direct orders
+PASS resume orders
+PASS all product fields saved
+PASS stale full editor rejected
+PASS path traversal rejected
+PASS details reach public catalog
+PASS stock enabled
+PASS order saved after resume
+PASS paused server still recovers saved order
+PASS delivery updates stock
+PASS stale stock form cannot overwrite delivery decrement
+PASS all accepted document hashes stored
+PASS password change reauthenticates
+PASS admin password changed
+PASS other admin session revoked
+PASS current session remains usable
+30 admin 3.1 checks passed

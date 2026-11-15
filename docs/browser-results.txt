@@ -1,0 +1,37 @@
+PASS homepage live products
+PASS analytics does not load before consent
+PASS homepage fits 320
+PASS homepage fits 390
+PASS homepage fits 430
+PASS homepage fits 1280
+PASS catalog 13 products
+PASS catalog fits 320
+PASS catalog fits 390
+PASS catalog fits 430
+PASS catalog fits 1280
+PASS search filters products
+PASS cart total matches original price
+PASS checkboxes independent
+PASS order actually saved
+PASS cart cleared only after success
+PASS repeat restores basket
+PASS new bottles included in total
+PASS account sign in view
+PASS real admin dashboard
+PASS inventory editor
+PASS new product persisted through owner UI
+PASS customer finance table
+PASS authenticated backup action
+PASS about.html shared header
+PASS delivery.html shared header
+PASS delivery-payment.html shared header
+PASS faq.html shared header
+PASS contacts.html shared header
+PASS privacy.html shared header
+PASS consent.html shared header
+PASS offer.html shared header
+PASS returns.html shared header
+PASS requisites.html shared header
+PASS service worker does not cache private pages/API
+PASS no browser JavaScript errors
+36 browser checks passed

@@ -1,0 +1,34 @@
+PASS catalog and csrf bootstrap
+PASS admin read protected
+PASS backup protected
+PASS CSRF missing blocked
+PASS guest order persisted
+PASS duplicate request safe
+PASS uncertain submission recovery
+PASS other session cannot query key
+PASS other session cannot reuse key
+PASS registration recovery key
+PASS guest order not linked by phone
+PASS password hashes not exposed
+PASS address saved
+PASS signed in order
+PASS account scoped history
+PASS wrong password blocked
+PASS password login
+PASS recurring request stored
+PASS cannot subscribe guest order
+PASS recovery key rotates password
+PASS old session invalidated
+PASS login after recovery
+PASS admin sign in
+PASS owner dashboard
+PASS owner confirms and records payment
+PASS stale owner form rejected
+PASS owner completes delivery
+PASS CSV export
+PASS full backup export
+PASS product edit with current version
+PASS stale product edit rejected
+PASS bridge key required
+PASS public slot availability
+33 HTTP checks passed

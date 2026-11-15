@@ -1,0 +1,7 @@
+PASS exact rubles to kopecks
+PASS only reserves without financial posting
+PASS repeat import idempotent
+PASS atomic insufficient stock rejection
+PASS incompatible product held in inbox
+PASS Cyrillic domain normalized for HTTP
+6 bridge checks passed

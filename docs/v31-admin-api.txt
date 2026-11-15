@@ -1,0 +1,31 @@
+PASS admin_upload requires owner
+PASS admin_save_product requires owner
+PASS admin_settings requires owner
+PASS admin_password requires owner
+PASS owner login
+PASS SVG upload rejected
+PASS malformed image rejected
+PASS oversize image rejected
+PASS real PNG uploaded
+PASS uploaded bytes served as image
+PASS settings CSRF enforced
+PASS settings saved with version
+PASS stale settings rejected
+PASS pause visible publicly
+PASS paused server blocks direct orders
+PASS resume orders
+PASS all product fields saved
+PASS stale full editor rejected
+PASS path traversal rejected
+PASS details reach public catalog
+PASS stock enabled
+PASS order saved after resume
+PASS paused server still recovers saved order
+PASS delivery updates stock
+PASS stale stock form cannot overwrite delivery decrement
+PASS all accepted document hashes stored
+PASS password change reauthenticates
+PASS admin password changed
+PASS other admin session revoked
+PASS current session remains usable
+30 admin 3.1 checks passed

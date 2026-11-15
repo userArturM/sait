@@ -1,0 +1,27 @@
+{
+  "pages": [
+    "index.html",
+    "catalog.html",
+    "about.html",
+    "delivery.html",
+    "delivery-payment.html",
+    "contacts.html",
+    "faq.html",
+    "requisites.html",
+    "returns.html",
+    "offer.html",
+    "privacy.html",
+    "consent.html",
+    "404.html",
+    "account.html"
+  ],
+  "widths": [
+    320,
+    390,
+    768,
+    1280
+  ],
+  "checks": 56,
+  "overflow": [],
+  "method": "Chromium browser, same-origin iframe, scrollWidth <= clientWidth"
+}

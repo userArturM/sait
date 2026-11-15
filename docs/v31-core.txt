@@ -1,0 +1,27 @@
+PASS original Plastunovskaya prices
+PASS Dinskaya surcharge
+PASS minimum enforced
+PASS negative quantity blocked
+PASS fractional quantity blocked
+PASS duplicate product blocked
+PASS client price tampering blocked
+PASS independent consent enforced
+PASS past date blocked
+PASS new bottles must be included
+PASS order saved
+PASS retry idempotent
+PASS same key changed payload blocked
+PASS foreign session cannot reuse key
+PASS active order reserves stock
+PASS oversell blocked
+PASS stale order version blocked
+PASS delivery decrements stock once
+PASS delivery releases reserve
+PASS debt exact integer
+PASS repeat delivered status does not decrement again
+PASS delivered cannot reopen
+PASS overpayment blocked
+PASS cancel requires refund
+PASS cancel releases reservation
+PASS pickup accessories allowed
+26 checks passed

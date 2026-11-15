@@ -1,0 +1,789 @@
+{
+  "results": [
+    {
+      "page": "404.html",
+      "status": 200,
+      "width": 320,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "404.html",
+      "status": 200,
+      "width": 360,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "404.html",
+      "status": 200,
+      "width": 375,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "404.html",
+      "status": 200,
+      "width": 390,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "404.html",
+      "status": 200,
+      "width": 430,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "404.html",
+      "status": 200,
+      "width": 768,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "404.html",
+      "status": 200,
+      "width": 1280,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "about.html",
+      "status": 200,
+      "width": 320,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "about.html",
+      "status": 200,
+      "width": 360,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "about.html",
+      "status": 200,
+      "width": 375,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "about.html",
+      "status": 200,
+      "width": 390,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "about.html",
+      "status": 200,
+      "width": 430,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "about.html",
+      "status": 200,
+      "width": 768,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "about.html",
+      "status": 200,
+      "width": 1280,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "account.html",
+      "status": 200,
+      "width": 320,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "account.html",
+      "status": 200,
+      "width": 360,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "account.html",
+      "status": 200,
+      "width": 375,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "account.html",
+      "status": 200,
+      "width": 390,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "account.html",
+      "status": 200,
+      "width": 430,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "account.html",
+      "status": 200,
+      "width": 768,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "account.html",
+      "status": 200,
+      "width": 1280,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "admin.html",
+      "status": 200,
+      "width": 320,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "admin.html",
+      "status": 200,
+      "width": 360,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "admin.html",
+      "status": 200,
+      "width": 375,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "admin.html",
+      "status": 200,
+      "width": 390,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "admin.html",
+      "status": 200,
+      "width": 430,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "admin.html",
+      "status": 200,
+      "width": 768,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "admin.html",
+      "status": 200,
+      "width": 1280,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "catalog.html",
+      "status": 200,
+      "width": 320,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "catalog.html",
+      "status": 200,
+      "width": 360,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "catalog.html",
+      "status": 200,
+      "width": 375,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "catalog.html",
+      "status": 200,
+      "width": 390,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "catalog.html",
+      "status": 200,
+      "width": 430,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "catalog.html",
+      "status": 200,
+      "width": 768,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "catalog.html",
+      "status": 200,
+      "width": 1280,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "consent.html",
+      "status": 200,
+      "width": 320,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "consent.html",
+      "status": 200,
+      "width": 360,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "consent.html",
+      "status": 200,
+      "width": 375,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "consent.html",
+      "status": 200,
+      "width": 390,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "consent.html",
+      "status": 200,
+      "width": 430,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "consent.html",
+      "status": 200,
+      "width": 768,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "consent.html",
+      "status": 200,
+      "width": 1280,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "contacts.html",
+      "status": 200,
+      "width": 320,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "contacts.html",
+      "status": 200,
+      "width": 360,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "contacts.html",
+      "status": 200,
+      "width": 375,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "contacts.html",
+      "status": 200,
+      "width": 390,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "contacts.html",
+      "status": 200,
+      "width": 430,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "contacts.html",
+      "status": 200,
+      "width": 768,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "contacts.html",
+      "status": 200,
+      "width": 1280,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "delivery-payment.html",
+      "status": 200,
+      "width": 320,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "delivery-payment.html",
+      "status": 200,
+      "width": 360,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "delivery-payment.html",
+      "status": 200,
+      "width": 375,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "delivery-payment.html",
+      "status": 200,
+      "width": 390,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "delivery-payment.html",
+      "status": 200,
+      "width": 430,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "delivery-payment.html",
+      "status": 200,
+      "width": 768,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "delivery-payment.html",
+      "status": 200,
+      "width": 1280,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "delivery.html",
+      "status": 200,
+      "width": 320,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "delivery.html",
+      "status": 200,
+      "width": 360,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "delivery.html",
+      "status": 200,
+      "width": 375,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "delivery.html",
+      "status": 200,
+      "width": 390,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "delivery.html",
+      "status": 200,
+      "width": 430,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "delivery.html",
+      "status": 200,
+      "width": 768,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "delivery.html",
+      "status": 200,
+      "width": 1280,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "faq.html",
+      "status": 200,
+      "width": 320,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "faq.html",
+      "status": 200,
+      "width": 360,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "faq.html",
+      "status": 200,
+      "width": 375,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "faq.html",
+      "status": 200,
+      "width": 390,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "faq.html",
+      "status": 200,
+      "width": 430,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "faq.html",
+      "status": 200,
+      "width": 768,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "faq.html",
+      "status": 200,
+      "width": 1280,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "index.html",
+      "status": 200,
+      "width": 320,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "index.html",
+      "status": 200,
+      "width": 360,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "index.html",
+      "status": 200,
+      "width": 375,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "index.html",
+      "status": 200,
+      "width": 390,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "index.html",
+      "status": 200,
+      "width": 430,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "index.html",
+      "status": 200,
+      "width": 768,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "index.html",
+      "status": 200,
+      "width": 1280,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "offer.html",
+      "status": 200,
+      "width": 320,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "offer.html",
+      "status": 200,
+      "width": 360,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "offer.html",
+      "status": 200,
+      "width": 375,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "offer.html",
+      "status": 200,
+      "width": 390,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "offer.html",
+      "status": 200,
+      "width": 430,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "offer.html",
+      "status": 200,
+      "width": 768,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "offer.html",
+      "status": 200,
+      "width": 1280,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "privacy.html",
+      "status": 200,
+      "width": 320,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "privacy.html",
+      "status": 200,
+      "width": 360,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "privacy.html",
+      "status": 200,
+      "width": 375,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "privacy.html",
+      "status": 200,
+      "width": 390,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "privacy.html",
+      "status": 200,
+      "width": 430,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "privacy.html",
+      "status": 200,
+      "width": 768,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "privacy.html",
+      "status": 200,
+      "width": 1280,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "requisites.html",
+      "status": 200,
+      "width": 320,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "requisites.html",
+      "status": 200,
+      "width": 360,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "requisites.html",
+      "status": 200,
+      "width": 375,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "requisites.html",
+      "status": 200,
+      "width": 390,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "requisites.html",
+      "status": 200,
+      "width": 430,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "requisites.html",
+      "status": 200,
+      "width": 768,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "requisites.html",
+      "status": 200,
+      "width": 1280,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "returns.html",
+      "status": 200,
+      "width": 320,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "returns.html",
+      "status": 200,
+      "width": 360,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "returns.html",
+      "status": 200,
+      "width": 375,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "returns.html",
+      "status": 200,
+      "width": 390,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "returns.html",
+      "status": 200,
+      "width": 430,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "returns.html",
+      "status": 200,
+      "width": 768,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "returns.html",
+      "status": 200,
+      "width": 1280,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "yandex_2eb2137fad154774.html",
+      "status": 200,
+      "width": 320,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "yandex_2eb2137fad154774.html",
+      "status": 200,
+      "width": 360,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "yandex_2eb2137fad154774.html",
+      "status": 200,
+      "width": 375,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "yandex_2eb2137fad154774.html",
+      "status": 200,
+      "width": 390,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "yandex_2eb2137fad154774.html",
+      "status": 200,
+      "width": 430,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "yandex_2eb2137fad154774.html",
+      "status": 200,
+      "width": 768,
+      "overflow": false,
+      "bad": []
+    },
+    {
+      "page": "yandex_2eb2137fad154774.html",
+      "status": 200,
+      "width": 1280,
+      "overflow": false,
+      "bad": []
+    }
+  ],
+  "errors": []
+}

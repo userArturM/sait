@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn----7sbbhku9buj1cwf.site/sitemap.xml
+Disallow: /api.php
+Disallow: /setup.php
+Disallow: /backend/
+Disallow: /integration/
+Disallow: /tests/
+Disallow: /docs/
